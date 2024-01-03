@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "review shop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "핫하고 인기있는 상품의 설명과 유래 그리고 TOP10 상품목록을 보여줍니다"
   location         : "Somewhere"
   email            :
   links:
